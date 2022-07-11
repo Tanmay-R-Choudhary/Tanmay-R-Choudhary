@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I am Tanmay and I go by the pronoun 'he'.
+I am Tanmay and I go by the pronoun 'he'. I am interested in physics and software engineering. I'll be starting my UG in Computer Engineering in a few months.
 
 I am currently working on two flutter apps and a physics simulation engine.
 
