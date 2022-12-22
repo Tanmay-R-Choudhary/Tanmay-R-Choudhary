@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I am Tanmay and I go by the pronoun 'he'. I am interested in physics and software engineering. I am currently pursuing Computer Engineering and have interest in Aerospace Engineering. My long term goal is to be a Sofware Engineer.
+I am Tanmay and I go by the pronoun 'he'. I am interested in physics and software engineering. I am currently pursuing Computer Engineering and have interest in Aerospace Engineering. My long term goal is to be a Software Engineer.
 
 Right now I am working on a physics engine using OpenGL. The engine is currently being designed to simulate basic stuff. Also I am only designing it for 2D physics as of now. I do have plans to increase the number of dimensions. However that would most likely be a sub project within the project.
 
