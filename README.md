@@ -1,14 +1,8 @@
 ### Hi there 👋!
 
-I am Tanmay and I go by the pronoun 'he'. I am interested in physics and software engineering. I'll be starting my UG in Computer Engineering in a few months.
+I am Tanmay and I go by the pronoun 'he'. I am interested in physics and software engineering. I am currently pursuing Computer Engineering and have interest in Aerospace Engineering. My long term goal is to be a Sofware Engineer.
 
-I am currently working on two flutter apps and a physics simulation engine.
-
-One of the apps is a task manager app and the other is a social media app whose audience are intended to be programmers.
-
-The engine is currently being designed to simulate basic stuff. Also I am only designing it for 2D physics as of now. I do have plans to increase the number of dimensions. However that would most likely be a sub project within the project.
-
-You can follow the progress of all these projects on my github.
+Right now I am working on a physics engine using OpenGL. The engine is currently being designed to simulate basic stuff. Also I am only designing it for 2D physics as of now. I do have plans to increase the number of dimensions. However that would most likely be a sub project within the project.
 
 You can reach me at: tanmay.d.choudhary@gmail.com
 
