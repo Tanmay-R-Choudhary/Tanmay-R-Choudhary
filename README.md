@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I am Tanmay and I go by the pronoun 'he'. I am interested in software engineering and Machine Learning/Artifician Intelligecnce. I am currently pursuing Computer Engineering.
+I am Tanmay and I go by the pronoun 'he'. I am interested in software engineering and Machine Learning/Artifician Intelligence. I am currently pursuing Computer Engineering.
 You can reach me at: tanmay.d.choudhary@gmail.com
 
 Have a nice day 🌻😄!
